@@ -1,0 +1,12 @@
+supabase>=2.0.0
+python-dotenv>=1.0.0
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-groq>=0.2.0
+pydantic>=2.7.0
+pypdf>=5.0.0
+reportlab>=4.2.0
+requests>=2.32.0
+matplotlib>=3.9.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
